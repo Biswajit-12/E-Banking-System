@@ -8,7 +8,7 @@ import { CurrencyPipe } from '@angular/common';
 import { Account } from '../model/account';
 import { AccountService, BASE_URL } from '../services/account.service';
 
-const DEFAULT_PROFILE = "../../assets/images.png";
+const DEFAULT_PROFILE = "../../assets/user.png";
 
 @Component({
   selector: 'app-profile',
